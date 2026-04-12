@@ -5,6 +5,12 @@
 	<img src="https://readme-typing-svg.demolab.com?font=DepartureMono+Nerd+Font&pause=1000&color=2DF707&center=true&vCenter=true&width=500&height=50&lines=I'm+iwamutsu256.;I'm+a+student+at+HAL+Tokyo.;I'm+studying+coding.;I'm+also+interested+in+AtCoder.;I+want+to+try+many+different+things." alt="Typing SVG"/>
 </p>
 
+<p align="left">
+  <a href="https://zenn.dev/iwamutsu"><img src="https://img.shields.io/badge/-Zenn-3EA8FF?style=for-the-badge&logo=zenn&logoColor=white" /></a>
+  <a href="https://qiita.com/iwamutsu256"><img src="https://img.shields.io/badge/-Qiita-55C500?style=for-the-badge&logo=qiita&logoColor=white" /></a>
+  <a href="https://dev.to/iwamutsu256"><img src="https://img.shields.io/badge/-dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white" /></a>
+</p>
+
 <h2>My skills</h2>
 <p>
 	<img src="https://skillicons.dev/icons?i=js,html,css,py,flask,neovim,vscode,figma,mysql,sqlite" alt="My Skills">
