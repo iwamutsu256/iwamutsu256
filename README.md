@@ -24,4 +24,10 @@
     <img src="https://atcoder-readme-stats.vercel.app/stats/iwamutsu256?theme=darcula&show_icons=true&show_history=true" alt="AtCoder Stats" style="width:600px;"/>
 </a>
 
+
+
+### Blogs posts
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
 <img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient&section=footer&textBg=false&animation=fadeIn&reversal=false" style="width: 100%;">
