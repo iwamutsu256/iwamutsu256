@@ -9,13 +9,13 @@
 <p>
 	<img src="https://skillicons.dev/icons?i=js,html,css,py,flask,neovim,vscode,figma,mysql,sqlite" alt="My Skills">
 </p>
-<p align="left">
-	<img src="https://github-readme-stats-eight-theta.vercel.app/api?username=iwamutsu256&show_icons=true&theme=synthwave&hide_border=true" alt="Stats" style="height:150px;">
-	<img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=iwamutsu256&layout=compact&theme=synthwave&hide_border=true" alt="Top Langs" style="height:150px;">
-	<img src="https://streak-stats.demolab.com?user=iwamutsu256&theme=synthwave&hide_border=true&locale=ja" alt="GitHub Streak" style="height:150px;"/>
-</p>
 
+[![](https://raw.githubusercontent.com/iwamutsu256/iwamutsu256/main/profile-summary-card-output/jolly/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![](https://raw.githubusercontent.com/iwamutsu256/iwamutsu256/main/profile-summary-card-output/jolly/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/iwamutsu256/iwamutsu256/main/profile-summary-card-output/jolly/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![](https://raw.githubusercontent.com/iwamutsu256/iwamutsu256/main/profile-summary-card-output/jolly/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/iwamutsu256/iwamutsu256/main/profile-summary-card-output/jolly/4-productive-time.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 
-
+<a href="https://atcoder.jp/users/iwamutsu256">
+    <img src="https://atcoder-readme-stats.vercel.app/stats/iwamutsu256?theme=darcula&show_icons=true&show_history=true" alt="AtCoder Stats" style="width:600px;"/>
+</a>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient&section=footer&textBg=false&animation=fadeIn&reversal=false" style="width: 100%;">
