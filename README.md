@@ -20,10 +20,14 @@
 [![](https://raw.githubusercontent.com/iwamutsu256/iwamutsu256/main/profile-summary-card-output/jolly/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/iwamutsu256/iwamutsu256/main/profile-summary-card-output/jolly/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 [![](https://raw.githubusercontent.com/iwamutsu256/iwamutsu256/main/profile-summary-card-output/jolly/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/iwamutsu256/iwamutsu256/main/profile-summary-card-output/jolly/4-productive-time.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 
-<a href="https://atcoder.jp/users/iwamutsu256">
-    <img src="https://atcoder-readme-stats.vercel.app/stats/iwamutsu256?theme=darcula&show_icons=true&show_history=true" alt="AtCoder Stats" style="width:600px;"/>
-</a>
-
+<p>
+	<a href="https://atcoder.jp/users/iwamutsu256">
+	    <img src="https://atcoder-readme-stats.vercel.app/stats/iwamutsu256?theme=darcula&show_icons=true&show_history=true" alt="AtCoder Stats" style="width:49%;"/>
+	</a>
+	<a href="https://leetcode.com/u/iwamutsu256/">
+		<img src="https://leetcard.jacoblin.cool/iwamutsu256?theme=catppuccinMocha&font=Saira%20Semi%20Condensed&ext=activity" alt="LeetCodeStats" style="width:49%;"/>
+	</a>
+</p>
 
 
 ### Recent blogs posts
