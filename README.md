@@ -26,7 +26,7 @@
 
 
 
-### Blogs posts
+### Recent blogs posts
 <!-- BLOG-POST-LIST:START -->
 - [AtCoder Beginner Contest 453 参加記録と解答例 &lpar;A〜C問題&rpar;](https://qiita.com/iwamutsu256/items/0107e09b0f4b3a535c28)
 - [AtCoder Beginner Contest 452 参加記録と解答例 &lpar;A〜D問題&rpar;](https://qiita.com/iwamutsu256/items/5e37d18e8a694c64bc9d)
