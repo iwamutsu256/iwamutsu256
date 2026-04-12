@@ -1,19 +1,23 @@
 name: GitHub-Profile-Summary-Cards
 
 on:
-  schedule: # execute every 24 hours
+  schedule: # 24時間ごとに自動更新
     - cron: "* */24 * * *"
-  workflow_dispatch:
+  workflow_dispatch:　# 手動実行可能
 
 jobs:
   build:
     runs-on: ubuntu-latest
-    name: generate
+    name: generate-github-profile-summary-cards
+    permissions:
+      contents: write # 明示的に書き込み権限を付与
 
     steps:
-      - uses: actions/checkout@v2
-      - uses: vn7n24fzkq/github-profile-summary-cards@release
+      - uses: actions/checkout@v4
+      - name: github-profile-summary-cards
+        uses: vn7n24fzkq/github-profile-summary-cards@release
         env:
           GITHUB_TOKEN: ${{ secrets.PROFILE_SUMMARY_CARDS_SECRETS }}
         with:
           USERNAME: ${{ github.repository_owner }}
+          theme: synthwave
