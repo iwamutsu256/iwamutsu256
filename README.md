@@ -9,12 +9,13 @@
 <p>
 	<img src="https://skillicons.dev/icons?i=js,html,css,py,flask,neovim,vscode,figma,mysql,sqlite" alt="My Skills">
 </p>
-<p>
-	<img src="https://github-readme-stats-eight-theta.vercel.app/api?username=iwamutsu256&show_icons=true&theme=synthwave&hide_border=true" alt="Stats" style="height:200px;">
-	<img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=iwamutsu256&layout=compact&theme=synthwave&hide_border=true" alt="Top Langs" style="height:200px;">
+<p align="left">
+	<img src="https://github-readme-stats-eight-theta.vercel.app/api?username=iwamutsu256&show_icons=true&theme=synthwave&hide_border=true" alt="Stats" style="height:150px;">
+	<img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=iwamutsu256&layout=compact&theme=synthwave&hide_border=true" alt="Top Langs" style="height:150px;">
+	<img src="https://streak-stats.demolab.com?user=iwamutsu256&theme=synthwave&hide_border=true&locale=ja" alt="GitHub Streak" style="height:150px;"/>
 </p>
 
-<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=iwamutsu256&theme=synthwave&hide_border=true&locale=ja" alt="GitHub Streak" /></a>
+
 
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient&section=footer&textBg=false&animation=fadeIn&reversal=false" style="width: 100%;">
