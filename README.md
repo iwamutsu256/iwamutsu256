@@ -32,8 +32,8 @@
 
 ### Recent blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [【ABC453 D】Go Straight 復習メモ：BFSの状態管理とTLE対策](https://qiita.com/iwamutsu256/items/cd98a263e8f223ec2c4d)
 - [AtCoder Beginner Contest 453 参加記録と解答例 &lpar;A〜C問題&rpar;](https://qiita.com/iwamutsu256/items/0107e09b0f4b3a535c28)
-- [AtCoder Beginner Contest 452 参加記録と解答例 &lpar;A〜D問題&rpar;](https://qiita.com/iwamutsu256/items/5e37d18e8a694c64bc9d)
 <!-- BLOG-POST-LIST:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient&section=footer&textBg=false&animation=fadeIn&reversal=false" style="width: 100%;">
