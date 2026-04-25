@@ -32,8 +32,8 @@
 
 ### Recent blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [AtCoder Beginner Contest 455 参加記録と解答例 &lpar;A~D問題&rpar;](https://qiita.com/iwamutsu256/items/ef2416ff3ee11b65b17d)
 - [AtCoder Beginer Contest 454 参加記録と解答例（A~D問題）](https://qiita.com/iwamutsu256/items/e60225b380f6c904873d)
-- [【初心者向け】Git &amp; GitHub 超入門：基本操作からブランチ管理、リポジトリ公開まで](https://qiita.com/iwamutsu256/items/2cd96576d95ff4ec62e5)
 <!-- BLOG-POST-LIST:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient&section=footer&textBg=false&animation=fadeIn&reversal=false" style="width: 100%;">
