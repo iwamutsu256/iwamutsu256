@@ -32,8 +32,8 @@
 
 ### Recent blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [AtCoder Beginner Contest 460 参加記録と解答例 &lpar;A～D問題&rpar;](https://qiita.com/iwamutsu256/items/3b2ef135e6c9f0a10661)
 - [AtCoder Beginner Contest 458 参加記録と解答例 &lpar;A～D問題&rpar;](https://qiita.com/iwamutsu256/items/db7ab07a5ac870b7884f)
-- [AtCoder Beginner Contest 457 参加記録と解答例 &lpar;A～D問題&rpar;](https://qiita.com/iwamutsu256/items/830200fe0808aba3f0b9)
 <!-- BLOG-POST-LIST:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient&section=footer&textBg=false&animation=fadeIn&reversal=false" style="width: 100%;">
