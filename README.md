@@ -1,20 +1,20 @@
 <!--header -->
-<img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=iwamutsu256&section=header&textBg=false&animation=fadeIn" style="width:100%;">
+<!-- <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=iwamutsu256&section=header&textBg=false&animation=fadeIn" style="width:100%;"> -->
 
-<p align="center">
+<!-- <p align="center"> -->
 	<img src="https://readme-typing-svg.demolab.com?font=DepartureMono+Nerd+Font&pause=1000&color=2DF707&center=true&vCenter=true&width=500&height=50&lines=I'm+iwamutsu256.;I'm+a+student+at+HAL+Tokyo.;I'm+studying+coding.;I'm+also+interested+in+AtCoder.;I+want+to+try+many+different+things." alt="Typing SVG"/>
-</p>
+<!-- </p> -->
 
-<p align="left">
+<!-- <p align="left"> 
   <a href="https://zenn.dev/iwamutsu"><img src="https://img.shields.io/badge/-Zenn-3EA8FF?style=for-the-badge&logo=zenn&logoColor=white" /></a>
   <a href="https://qiita.com/iwamutsu256"><img src="https://img.shields.io/badge/-Qiita-55C500?style=for-the-badge&logo=qiita&logoColor=white" /></a>
   <a href="https://dev.to/iwamutsu256"><img src="https://img.shields.io/badge/-dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white" /></a>
-</p>
+ </p> -->
 
-<h2>My skills</h2>
-<p>
+<!-- <h2>My skills</h2> -->
+<!-- <p> -->
 	<img src="https://skillicons.dev/icons?i=js,html,css,py,flask,neovim,vscode,figma,mysql,sqlite" alt="My Skills">
-</p>
+<!-- </p> 
 
 [![](https://raw.githubusercontent.com/iwamutsu256/iwamutsu256/main/profile-summary-card-output/jolly/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 [![](https://raw.githubusercontent.com/iwamutsu256/iwamutsu256/main/profile-summary-card-output/jolly/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/iwamutsu256/iwamutsu256/main/profile-summary-card-output/jolly/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
@@ -31,9 +31,9 @@
 
 
 ### Recent blogs posts
-<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:START 
 - [AtCoder Beginner Contest 462 参加記録と解答例 &lpar;A～E問題&rpar;](https://qiita.com/iwamutsu256/items/424aaf7ee6c55d1f44da)
 - [AtCoder Beginner Contest 460 参加記録と解答例 &lpar;A～D問題&rpar;](https://qiita.com/iwamutsu256/items/3b2ef135e6c9f0a10661)
 <!-- BLOG-POST-LIST:END -->
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient&section=footer&textBg=false&animation=fadeIn&reversal=false" style="width: 100%;">
+<!-- <img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient&section=footer&textBg=false&animation=fadeIn&reversal=false" style="width: 100%;"> -->
